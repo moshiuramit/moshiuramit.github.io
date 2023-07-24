@@ -1,11 +1,9 @@
 /*!
 =========================================================
-* JohnDoe Landing page
+* moshiuramit Landing page
 =========================================================
 
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
-* Coded by www.devcrud.com
+* Copyright: moshiuramit
 
 =========================================================
 
@@ -27,7 +25,7 @@ $(document).ready(function(){
             }, 700, function(){
                 window.location.hash = hash;
             });
-        } 
+        }
     });
 });
 

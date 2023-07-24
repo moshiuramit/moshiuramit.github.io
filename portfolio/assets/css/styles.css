@@ -1,12 +1,10 @@
 @charset "UTF-8";
 /*!
 =========================================================
-* JohnDoe Landing page
+* Moshiuramit Landing page
 =========================================================
 
-* Copyright: 2019 DevCRUD (https://devcrud.com)
-* Licensed: (https://devcrud.com/licenses)
-* Coded by www.devcrud.com
+* Copyright: moshiuramit
 
 =========================================================
 
@@ -2779,8 +2777,8 @@ fieldset:disabled a.btn {
 
 .btn-primary:hover {
   color: #fff;
-  background-color: #f63750;
-  border-color: #f62b45;
+  background-color: #0078CF;
+  border-color: #046cb5;
 }
 
 .btn-primary:focus, .btn-primary.focus {
@@ -2796,8 +2794,8 @@ fieldset:disabled a.btn {
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active,
 .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #f62b45;
-  border-color: #f51f3a;
+  background-color: #046cb5;
+  border-color: #046cb5;
 }
 
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus,
@@ -2909,14 +2907,14 @@ fieldset:disabled a.btn {
 
 .btn-warning {
   color: #212529;
-  background-color: #FF8882;
-  border-color: #FF8882;
+  background-color: #0078CF;
+  border-color: #0078CF;
 }
 
 .btn-warning:hover {
   color: #fff;
-  background-color: #ff645c;
-  border-color: #ff574f;
+  background-color: #0078CF;
+  border-color: #0078CF;
 }
 
 .btn-warning:focus, .btn-warning.focus {
@@ -2924,16 +2922,16 @@ fieldset:disabled a.btn {
 }
 
 .btn-warning.disabled, .btn-warning:disabled {
-  color: #212529;
-  background-color: #FF8882;
-  border-color: #FF8882;
+  color: #fff;
+  background-color: #0078CF;
+  border-color: #0078CF;
 }
 
 .btn-warning:not(:disabled):not(.disabled):active, .btn-warning:not(:disabled):not(.disabled).active,
 .show > .btn-warning.dropdown-toggle {
   color: #fff;
-  background-color: #ff574f;
-  border-color: #ff4b42;
+  background-color: #0078CF;
+  border-color: #0078CF;
 }
 
 .btn-warning:not(:disabled):not(.disabled):active:focus, .btn-warning:not(:disabled):not(.disabled).active:focus,
@@ -2949,8 +2947,8 @@ fieldset:disabled a.btn {
 
 .btn-danger:hover {
   color: #fff;
-  background-color: #f63750;
-  border-color: #f62b45;
+  background-color: #0078CF;
+  border-color: #046cb5;
 }
 
 .btn-danger:focus, .btn-danger.focus {
@@ -2966,7 +2964,7 @@ fieldset:disabled a.btn {
 .btn-danger:not(:disabled):not(.disabled):active, .btn-danger:not(:disabled):not(.disabled).active,
 .show > .btn-danger.dropdown-toggle {
   color: #fff;
-  background-color: #f62b45;
+  background-color: #046cb5;
   border-color: #f51f3a;
 }
 
@@ -3215,7 +3213,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger:focus, .btn-outline-danger.focus {
-  box-shadow: 0 0 0 0.2rem rgba(248, 92, 112, 0.5);
+  box-shadow: 0 0 0 0.2rem rgba(121, 92, 248, 0.842);
 }
 
 .btn-outline-danger.disabled, .btn-outline-danger:disabled {
@@ -5503,7 +5501,7 @@ a.badge:hover, a.badge:focus {
 
 a.badge-primary:hover, a.badge-primary:focus {
   color: #fff;
-  background-color: #f62b45;
+  background-color: #046cb5;
 }
 
 a.badge-primary:focus, a.badge-primary.focus {
@@ -5578,7 +5576,7 @@ a.badge-warning:focus, a.badge-warning.focus {
 
 a.badge-danger:hover, a.badge-danger:focus {
   color: #fff;
-  background-color: #f62b45;
+  background-color: #046cb5;
 }
 
 a.badge-danger:focus, a.badge-danger.focus {
@@ -7148,7 +7146,7 @@ a.close.disabled {
 a.bg-primary:hover, a.bg-primary:focus,
 button.bg-primary:hover,
 button.bg-primary:focus {
-  background-color: #f62b45 !important;
+  background-color: #046cb5 !important;
 }
 
 .bg-secondary {
@@ -7198,7 +7196,7 @@ button.bg-warning:focus {
 a.bg-danger:hover, a.bg-danger:focus,
 button.bg-danger:hover,
 button.bg-danger:focus {
-  background-color: #f62b45 !important;
+  background-color: #046cb5 !important;
 }
 
 .bg-light {
