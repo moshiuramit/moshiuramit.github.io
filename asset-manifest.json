@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/metacapstone/static/css/main.f5a04ace.css",
+    "main.js": "/metacapstone/static/js/main.815868cc.js",
+    "static/js/787.55fb5158.chunk.js": "/metacapstone/static/js/787.55fb5158.chunk.js",
+    "static/media/icon-snapchat.svg": "/metacapstone/static/media/icon-snapchat.103c239201d82cb77954414a34fb350e.svg",
+    "static/media/icon-instagram.svg": "/metacapstone/static/media/icon-instagram.c2056460bbbf6c051f72df6d7c2fa6dc.svg",
+    "static/media/icon-yelp.svg": "/metacapstone/static/media/icon-yelp.fcec9306eb760e748dc4fe8904b5f8a1.svg",
+    "static/media/icon-pinterest.svg": "/metacapstone/static/media/icon-pinterest.8ebc0338430682823a92a53e5e87e868.svg",
+    "index.html": "/metacapstone/index.html",
+    "static/media/icon-facebook.svg": "/metacapstone/static/media/icon-facebook.9b444da5aa9a56243f8c6dde17a22a43.svg",
+    "main.f5a04ace.css.map": "/metacapstone/static/css/main.f5a04ace.css.map",
+    "main.815868cc.js.map": "/metacapstone/static/js/main.815868cc.js.map",
+    "787.55fb5158.chunk.js.map": "/metacapstone/static/js/787.55fb5158.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5a04ace.css",
+    "static/js/main.815868cc.js"
+  ]
+}
