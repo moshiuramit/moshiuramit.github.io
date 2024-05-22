@@ -1,0 +1,44 @@
+git init
+git status 
+git clone git@github.com:moshiuramit/git-intro.git | (link of remote repository)
+
+inclue some files
+1. Untrack files 
+
+Track your Files:
+git add <file> | Staging area specific file
+git add --all  | All files and folder
+git add . 
+
+
+git status | To check the current status
+modified:   gitInitial.txt 
+
+==========
+git rm --cached <file>
+git rm -r --cached <folderName>
+==========
+
+
+Register or Commit a version: While we commited we are creating a version
+git commit -m "Initial commit for task 1" | Local Repository Sync
+
+After several commit we can go back to a specific Committed version. We can visulalize a commit a list of student with their roll number.
+
+
+git restore --staged <file> | (to unstage)
+
+git restore  <file> |  to discard changes in working directory
+
+
+=============
+if we rename a file it will show 
+deleted:    file1.txt
+
+
+git log 
+git log --oneline 
+
+git add mergePullPush.txt 
+git commit -m "Tracking pullpush file"
+

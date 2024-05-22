@@ -1,0 +1,9 @@
+git config --list
+
+#Set User Name and user email:
+git config --global user.name "moshiuramit"
+git config --global user.email "moshiur.amit@gmail.com"
+
+
+
+
